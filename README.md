@@ -7,7 +7,7 @@ This application allows users to manage solar facilities, upload performance dat
 
 Clone the repository, navigate to the project directory and install dependencies using npm or yarn:
 ### `npm install`
-### `yarn start`
+### `yarn install`
  
 In the project directory, you can run:
 
